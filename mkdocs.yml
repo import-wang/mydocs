@@ -1,0 +1,5 @@
+site_name: Wangzilun's Docs
+site_author: wangzilun
+site_url: https://import-wang.github.io/mydocs
+theme: 
+  name: material
